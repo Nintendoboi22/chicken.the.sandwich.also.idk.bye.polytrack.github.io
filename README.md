@@ -32,7 +32,7 @@ just have it run the main HTML file and it will work fine.
 
 ## Credits
 
-Please ensure you give credit to the original creator of PolyTrack.
+Please ensure you give credit to the original creator of [PolyTrack](https://kotaku.com/games/polytrack).
 
 ---
 
