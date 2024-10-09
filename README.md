@@ -1,4 +1,4 @@
-# Bit-Planes
+# PolyTrack
 
 ![Casoh](https://i.ytimg.com/vi/Kbpq8ZhOnYM/hqdefault.jpg)
 
@@ -8,7 +8,7 @@
 
 here the preview deployment just so you can see the game 
 
- 
+ https://do-not-dusturb.github.io/polytrack/ 
 
 ## Game Information
 
